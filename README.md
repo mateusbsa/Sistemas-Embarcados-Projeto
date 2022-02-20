@@ -1,6 +1,6 @@
 # Sistemas Embarcados - 2021.2
 
-#### <titudo_do_projeto>
+#### Análise da temperatura e umidade do solo/ar.
 
 ### 1 - Descrição do projeto:
 
