@@ -21,8 +21,8 @@
 
 ### 5 - Grupo
 
-* Mateus
-* Marcelo
+* Mateus Barbosa
+* Marcelo Filho
 * Moabe Barbosa Alves
 
 ### 6 - Instituição
