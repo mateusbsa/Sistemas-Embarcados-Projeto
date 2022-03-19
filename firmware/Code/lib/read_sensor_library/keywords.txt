@@ -1,0 +1,5 @@
+read_sensor	KEYWORD1
+rd_sr	KEYWORD2
+readHumidityDHT	KEYWORD2
+readTemperatureDHT	KEYWORD2
+readUmidadeSolo	KEYWORD2
