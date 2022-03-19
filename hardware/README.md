@@ -12,6 +12,7 @@
 
 
 * Layout PCB
+
 ![Layout](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/Layout_PCB.png)
 
 * PCB 3D
