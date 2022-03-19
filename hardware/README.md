@@ -1,34 +1,24 @@
-# Sistemas Embarcados - 2021.2
+# DESCRIÇÃO DE HARDWARE
 
-#### Análise da temperatura e umidade do solo/ar.
+### DIAGRAMA DE BLOCOS HARDWARE
 
-### 1 - Descrição do projeto:
+* O microcontrolador ESP8266 é alimentado por uma bateria de 3.3V. Na porta digital 1(D1) é conectado o sensor de umidade e temperatura DHT11 e na porta analógica 0(A0) é ligado o sensor de umidade do solo. 
 
-##### O projeto consiste na criação de um dispositivo capaz de coletar dados referentes a temperatura e umidade do ar, como também a umidade do solo, a fim de se poder realizar análises onde o sistema tenha sido instalado.
+![Diagrama_Blocos](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Diagrama_Blocos_Hardware.jpeg)
 
-### 2 - Objetivos
+### PROTOTIPAÇÃO DO HARDWARE FUSION/EAGLE
 
-  O objetivo do projeto é coletar os dados por meio dos sensores onde serão enviados através de conexão wireless para o banco de dados, será realizada a análise e assim possa ser retornado para o usuário, através de um aplicativo em seu celular, dados de temperatura e umidade do ar e o nível de umidade do solo para que o usuário saiba o quanto de água a planta dele precisa e qual tempo médio o solo vai suportar sem precisar ser irrigado novamente.
-  
-### 3 - Resumo das arquiteturas
+* Esquema Elétrico
 
-  O projeto ...
-  
-  1.  Hardware
-  2.  Firmaware e/ou Software/App 
-  
-### 4 - Resumo dos Resultados
+![Esquema](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/Esquema_Eletrico.png)
 
-### 5 - Grupo
 
-* Mateus Barbosa
-* Marcelo Filho
-* Moabe Barbosa Alves
+* Layout PCB
 
-### 6 - Instituição
+![Layout](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/Layout_PCB.png)
 
-* Instituto Federal da Paraíba - IFPB
-* Campus Campina Grande
+* PCB 3D
 
-### Docente responsável
-* Alexandre Sales Vasconcelos
+![PCB_3D](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/PCB_3D.png)
+
+
