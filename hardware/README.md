@@ -8,11 +8,11 @@
 
 * Esquema Elétrico
 
-![Esquema](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/PCB_3D.png)
+![Esquema](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/Esquema_Eletrico.png)
 
 
 * Layout PCB
-https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/Layout_PCB.png
+"[Layout](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/Layout_PCB.png)
 
 * PCB 3D
 
