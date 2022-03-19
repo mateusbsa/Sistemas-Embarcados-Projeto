@@ -22,3 +22,7 @@
 ![PCB_3D](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/PCB_3D.png)
 
 
+* CASE
+
+![Case](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/Case_2.png)
+
