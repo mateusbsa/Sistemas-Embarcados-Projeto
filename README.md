@@ -18,7 +18,7 @@
 
   [FOTO DO PROTÓTIPO REAL]
   
-  * Diagrama de Blocos
+  * Diagrama de Blocos do Hardware
   
   ![Diagrama_Blocos](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Diagrama_Blocos_Hardware.jpeg)
   
@@ -44,23 +44,41 @@
   2.  Firmware
   
   * O firmware é  organizado da seguinte maneira:
+    - A pasta **lib** contém a nossa própria biblioteca, onde é reponsável pela leitura dos sensores.
+    - Na pasta **scr** contém o código principal do projeto.
   
   ![image](https://user-images.githubusercontent.com/36906080/159146884-a02cae27-aa52-4bb1-a5f8-158774acc284.png)
   
-  * A pasta **lib** contém a nossa própria biblioteca, onde é reponsável pela leitura dos sensores.
-  * Na pasta **scr** contém o código principal do projeto.
-
+   
+  * Fluxograma do Firmware:
+  
   ![FLUXO_FIRMWARE](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/firmware/Fluxograma_Firmware.jpeg)
   
   3.  Software/App 
   
-  [FOTO DO SITE ADAFRUIT]
+  * AdafruitIO
+  
+  ![ADAFRUIT](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/app/AdafruitIO_App.jpeg)
+  
+  
+  * Fluxograma do APP
   
   ![FLUXO_APP](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/app/Fluxograma_App.jpeg)
   
   
 ### 4 - Resumo dos Resultados
 
+Através desse projeto conseguimos realizar as seguintes etapas:
+* HARDWARE:
+   <p> :heavy_check_mark: Realização do protótipo real <p>
+   <p> :heavy_check_mark: Esquema Elétrico <p>
+   <p> :heavy_check_mark: PCB <p>
+   :heavy_check_mark: PCB 3D <p>
+   :heavy_check_mark: Case para PCB <p>
+* Firmware
+   <p> :heavy_check_mark: Criação de uma biblioteca própria para <p> 
+* App
+   <p> :heavy_check_mark: Criação da parte visual para mostrar as leituras dos sensores <p>
 
 ### 5 - Grupo
 
