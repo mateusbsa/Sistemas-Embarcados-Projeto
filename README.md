@@ -10,7 +10,7 @@
 
   O objetivo do projeto é coletar os dados dos sensores de temperatura e umidade do ar e umidade do solo, onde serão enviados através de conexão wireless para o Adafruit.IO, um sistema de armazenamento em nuvem, com a capcidade de exibir dados em tempo real enquanto online, realizar a leitura, o monitoramento e o controle de dados que estão sendo recebidos.
   
-### 3 - Resumo das arquiteturas
+### 3 - Resumo das arquiteturas e seus fluxogramas
 
    1.  Hardware
 
