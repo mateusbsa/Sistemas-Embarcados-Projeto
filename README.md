@@ -8,16 +8,59 @@
 
 ### 2 - Objetivos
 
-  O objetivo do projeto é coletar os dados por meio dos sensores onde serão enviados através de conexão wireless para o banco de dados, será realizada a análise e assim possa ser retornado para o usuário, através de um aplicativo em seu celular, dados de temperatura e umidade do ar e o nível de umidade do solo para que o usuário saiba o quanto de água a planta dele precisa e qual tempo médio o solo vai suportar sem precisar ser irrigado novamente.
+  O objetivo do projeto é coletar os dados dos sensores de temperatura e umidade do ar e umidade do solo, onde serão enviados através de conexão wireless para o Adafruit.IO, um sistema de armazenamento em nuvem, com a capcidade de exibir dados em tempo real enquanto online, realizar a leitura, o monitoramento e o controle de dados que estão sendo recebidos.
   
 ### 3 - Resumo das arquiteturas
 
-  O projeto ...
+   1.  Hardware
+
+  * Protótipo Real
+
+  [FOTO DO PROTÓTIPO REAL]
   
-  1.  Hardware
-  2.  Firmaware e/ou Software/App 
+  * Diagrama de Blocos
+  
+  ![Diagrama_Blocos](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Diagrama_Blocos_Hardware.jpeg)
+  
+  * Esquema Elétrico
+  
+  ![Esquema](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/Esquema_Eletrico.png)
+
+
+  * Layout PCB
+
+  ![Layout](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/Layout_PCB.png)
+
+  * PCB 3D
+
+  ![PCB_3D](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/PCB_3D.png)
+
+
+  * CASE
+
+  ![Case](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/Case_2.png)
+  
+ 
+  2.  Firmware
+  
+  * O firmware é  organizado da seguinte maneira:
+  
+  ![image](https://user-images.githubusercontent.com/36906080/159146884-a02cae27-aa52-4bb1-a5f8-158774acc284.png)
+  
+  * A pasta **lib** contém a nossa própria biblioteca, onde é reponsável pela leitura dos sensores.
+  * Na pasta **scr** contém o código principal do projeto.
+
+  ![FLUXO_FIRMWARE](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/firmware/Fluxograma_Firmware.jpeg)
+  
+  3.  Software/App 
+  
+  [FOTO DO SITE ADAFRUIT]
+  
+  ![FLUXO_APP](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/app/Fluxograma_App.jpeg)
+  
   
 ### 4 - Resumo dos Resultados
+
 
 ### 5 - Grupo
 
