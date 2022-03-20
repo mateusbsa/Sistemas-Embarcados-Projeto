@@ -16,7 +16,7 @@
 
   * Protótipo Real
 
-  [FOTO DO PROTÓTIPO REAL]
+  ![PROTÓTIPO REAL](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/hardware/Imagens_3D/prot%C3%B3tipo_real.jpeg)
   
   * Diagrama de Blocos do Hardware
   
