@@ -40,7 +40,7 @@ void loop() {
   io.run();
   float h = rd.readHumidityDHT();
   float t = rd.readTemperatureDHT();
-  int u = ( rd.readUmidadeSolo() / 1024) * 100;
+  int u =  rd.readUmidadeSolo();
   Serial.println("Solo: ");
   Serial.println(u);
   Serial.print("temperatura: ");

@@ -21,5 +21,5 @@ float rd_sr::readTemperatureDHT(){
 }
 
 int rd_sr::readUmidadeSolo(){
-  return analogRead(_pin);
+  return (analogRead(_pin) / 1024) * 100;
 }
