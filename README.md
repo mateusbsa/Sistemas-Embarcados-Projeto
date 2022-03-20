@@ -72,7 +72,7 @@ Através desse projeto conseguimos realizar as seguintes etapas:
 * Firmware 
     <p> :heavy_check_mark:  Criação de uma biblioteca responsável pela leituras dos sensores:
       
-    - A pasta **lib** contém a nossa própria biblioteca, onde é reponsável pela leitura dos sensores.
+    - A pasta **lib** contém a nossa própria biblioteca(read_sensor_library), onde é reponsável pela leitura dos sensores.
     - Na pasta **scr** contém o código principal do projeto.
 
     ![image](https://user-images.githubusercontent.com/36906080/159146884-a02cae27-aa52-4bb1-a5f8-158774acc284.png)
