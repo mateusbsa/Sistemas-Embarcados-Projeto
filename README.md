@@ -84,16 +84,22 @@ Através desse projeto conseguimos realizar as seguintes etapas:
   
     ![ADAFRUIT](https://github.com/mateusbsa/Sistemas-Embarcados-Projeto/blob/main/app/AdafruitIO_App.jpeg)
 
-### 5 - Grupo
+### 5 - Vídeos
+  - Protótipo
+   [![prototipo](https://user-images.githubusercontent.com/36906080/159196647-b0e8f483-d51c-4297-9116-d47036b4a062.png)](https://youtu.be/4cjadYyA5_c)
+  
+  - Apresentação do projeto
+    [![apresentacao](https://user-images.githubusercontent.com/36906080/159196998-3fd8a7f3-196b-45bb-90d5-2ba407825b00.png)](https://youtu.be/qm0l4gD1HUY)
+### 6 - Grupo
 
 * Mateus Barbosa
 * Marcelo Filho
 * Moabe Barbosa Alves
 
-### 6 - Instituição
+### 7 - Instituição
 
 * Instituto Federal da Paraíba - IFPB
 * Campus Campina Grande
 
-### Docente responsável
+### 8 - Docente responsável
 * Alexandre Sales Vasconcelos
